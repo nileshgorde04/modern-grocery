@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modern-grocery/static/css/main.ba75c474.css",
+    "main.js": "/modern-grocery/static/js/main.dc33e28e.js",
+    "static/js/453.ca26edbf.chunk.js": "/modern-grocery/static/js/453.ca26edbf.chunk.js",
+    "index.html": "/modern-grocery/index.html",
+    "main.ba75c474.css.map": "/modern-grocery/static/css/main.ba75c474.css.map",
+    "main.dc33e28e.js.map": "/modern-grocery/static/js/main.dc33e28e.js.map",
+    "453.ca26edbf.chunk.js.map": "/modern-grocery/static/js/453.ca26edbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba75c474.css",
+    "static/js/main.dc33e28e.js"
+  ]
+}
