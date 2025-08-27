@@ -36,7 +36,7 @@ You need to have **Node.js** and **npm** installed on your computer.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nileshgorde04/modern-grocery.git](https://github.com/nileshgorde04/modern-grocery.git)
+    git clone https://github.com/nileshgorde04/modern-grocery.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
