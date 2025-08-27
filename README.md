@@ -6,7 +6,7 @@ This is a simple and modern grocery inventory management application built with 
 
 ---
 
-### ## ✨ Features
+### ✨ Features
 
 -   **Add Items**: Quickly add new items to your grocery list.
 -   **Remove Items**: Remove items you no longer need.
@@ -16,7 +16,7 @@ This is a simple and modern grocery inventory management application built with 
 
 ---
 
-### ## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 -   **React**: A JavaScript library for building user interfaces.
 -   **React Hooks**: Used for state management (`useState`, `useEffect`).
@@ -24,7 +24,7 @@ This is a simple and modern grocery inventory management application built with 
 
 ---
 
-### ## 🛠️ Getting Started
+### 🛠️ Getting Started
 
 Follow these instructions to get a copy of the project running on your local machine.
 
